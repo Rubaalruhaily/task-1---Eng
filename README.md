@@ -14,4 +14,6 @@
 4- الجدزل الزمني
 
 5- خطة الإنتاج
+
+
 [ورقة مشروع صراع الاذرع الآلية.pdf](https://github.com/Rubaalruhaily/task-1---Eng/files/6867242/default.pdf)
